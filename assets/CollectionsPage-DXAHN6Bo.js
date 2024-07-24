@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage-y9nFt0HA.js";import{_ as t,L as a,P as o,Q as c,T as r}from"./index-CTlL0kFM.js";import"./render-B1u42ZJu.js";const s={};function l(n,_){return a(),o(e,{class:"flex flex-center"},{default:c(()=>[r(" COLLECTIONS page ")]),_:1})}const x=t(s,[["render",l],["__file","CollectionsPage.vue"]]);export{x as default};

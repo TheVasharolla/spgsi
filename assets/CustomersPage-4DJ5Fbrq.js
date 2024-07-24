@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage-y9nFt0HA.js";import{_ as t,L as a,P as r,Q as s,T as o}from"./index-CTlL0kFM.js";import"./render-B1u42ZJu.js";const c={};function _(f,n){return a(),r(e,{class:"flex flex-center"},{default:s(()=>[o(" CUSTOMERS page ")]),_:1})}const p=t(c,[["render",_],["__file","CustomersPage.vue"]]);export{p as default};
